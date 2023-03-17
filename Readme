@@ -31,10 +31,12 @@ coomit your code to git
 run `git commit -m "Your message"`
 
 step 8:
-commect local git to remote github repo
+commect local git to remote github
 run `git remote add origin <url>`
 
 step 9:
 push local commits to github
 run `git push -u origin main` for first push
 next we can use just `git push`
+
+step 10:
