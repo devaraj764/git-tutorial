@@ -1,0 +1,30 @@
+Git Tutorials
+
+step-1:
+Download git - https://git-scm.com/downloads
+
+step:2:
+Install dowloaded file
+
+step 3:
+open cmd and navigate to the project folder using `cd` command
+open project in vs code `code .`
+
+step 4:
+create a new file
+and start editing it
+
+step 5:
+After editing new file
+Intialize git in that peoject folder
+in terminal type `git init`
+
+-- untracked files means cretaed files and not added to git
+
+step 6:
+run `git status` to view status of your project
+run `get add <file>` to add a new file to stage area
+After added files they are shown under changes to commited section.
+
+step 7:
+run `git commit -m "Your message"`
