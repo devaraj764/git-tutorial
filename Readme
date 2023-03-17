@@ -35,8 +35,10 @@ commect local git to remote github
 run `git remote add origin <url>`
 
 step 9:
-push local commits to github
+push local commits to github repo
 run `git push -u origin main` for first push
 next we can use just `git push`
 
 step 10:
+pull request to remote git repo
+run `git pull`
